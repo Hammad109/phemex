@@ -2427,3 +2427,16 @@
   .carousel:not(:last-child) .carousel-item:last-child {
     margin-right: 0;
   }
+  .dropdown-icon{
+    height: 15px !important;
+    width: 15px !important;
+    padding-left: 5px;
+  }
+  .right-arrow{
+    height: 15px;
+    width: 15px;
+  }
+  .view-more{
+    width: 20px;
+    padding-left: 5px;
+  }
