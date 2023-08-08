@@ -1846,18 +1846,18 @@
     color: #333;
     cursor: pointer;
   }
-  .iconfont.disabled.svelte-mtj5ir.svelte-mtj5ir {
+  /* .iconfont.disabled.svelte-mtj5ir.svelte-mtj5ir {
     border-color: #ccc;
     color: #ccc;
     cursor: not-allowed;
-  }
-  .iconfont.svelte-mtj5ir.svelte-mtj5ir:first-child {
+  } */
+  /* .iconfont.svelte-mtj5ir.svelte-mtj5ir:first-child {
     margin-right: 48px;
     transform: rotate(90deg);
   }
   .iconfont.svelte-mtj5ir.svelte-mtj5ir:last-child {
     transform: rotate(-90deg);
-  }
+  } */
   @media screen and (max-width: 640px) {
     .wrap.svelte-mtj5ir.svelte-mtj5ir {
       padding: 40px 0;
@@ -3607,20 +3607,20 @@ button.svelte-f439t6.svelte-f439t6:focus {
     cursor: pointer
 }
 
-.iconfont.disabled.svelte-mtj5ir.svelte-mtj5ir {
+/* .iconfont.disabled.svelte-mtj5ir.svelte-mtj5ir {
     border-color: #ccc;
     color: #ccc;
     cursor: not-allowed
-}
+} */
 
 .iconfont.svelte-mtj5ir.svelte-mtj5ir:first-child {
     margin-right: 48px;
-    transform: rotate(90deg)
+   
 }
 
-.iconfont.svelte-mtj5ir.svelte-mtj5ir:last-child {
+/* .iconfont.svelte-mtj5ir.svelte-mtj5ir:last-child {
     transform: rotate(-90deg)
-}
+} */
 
 @media screen and (max-width: 640px) {
     .wrap.svelte-mtj5ir.svelte-mtj5ir {
